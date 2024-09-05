@@ -1,0 +1,10 @@
+C:\Users\laete\OneDrive\바탕 화면\project\c#\win_app_practice\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\laete\OneDrive\바탕 화면\project\c#\win_app_practice\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\laete\OneDrive\바탕 화면\project\c#\win_app_practice\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\laete\OneDrive\바탕 화면\project\c#\win_app_practice\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\laete\OneDrive\바탕 화면\project\c#\win_app_practice\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\laete\OneDrive\바탕 화면\project\c#\win_app_practice\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\laete\OneDrive\바탕 화면\project\c#\win_app_practice\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\laete\OneDrive\바탕 화면\project\c#\win_app_practice\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\laete\OneDrive\바탕 화면\project\c#\win_app_practice\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\laete\OneDrive\바탕 화면\project\c#\win_app_practice\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
